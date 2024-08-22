@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "https://mysato-sushi.kz/uploads/files/274f50e473e9d1ce215594ac5aa3a0e0.svg",
+    "title": "РОЛЛЫ",
+    "path": "/Rolls"
+  },
+  {
+    "id": 2,
+    "img": "https://mysato-sushi.kz/uploads/files/4b8b50612c591eab623a36936372eca7.svg",
+    "title": "СУШИ",
+    "path": "/Sushi"
+  },
+  {
+    "id": 3,
+    "img": "https://mysato-sushi.kz/uploads/files/55ae42075fa8243ff49a5d1f5d298c02.svg",
+    "title": "ПИЦЦА",
+    "path": "/Pizza"
+  },
+  {
+    "id": 4,
+    "img": "https://mysato-sushi.kz/uploads/files/29432f1a2b1f62b645f422a3d6630f5f.svg",
+    "title": "СЕТЫ",
+    "path": "/Sets"
+  },
+  {
+    "id": 5,
+    "img": "https://mysato-sushi.kz/uploads/files/e2929dbd6ef4aa6f53e24303a916bf4f.svg",
+    "title": "WOK ЛАПША",
+    "path": "/Noodles"
+  },
+  {
+    "id": 6,
+    "img": "https://mysato-sushi.kz/uploads/files/f36e9844a40eb28be06ef10d67a87ff6.svg",
+    "title": "СУПЫ",
+    "path": "/Soups"
+  },
+  {
+    "id": 7,
+    "img": "https://mysato-sushi.kz/uploads/files/0ad185e21a9612264179445e74abcfb4.svg",
+    "title": "САЛАТЫ",
+    "path": "/Salads"
+  },
+  {
+    "id": 8,
+    "img": "https://mysato-sushi.kz/uploads/files/e19379a08062c81ff2740fcca018d6f7.svg",
+    "title": "ЗАКУСКИ",
+    "path": "/Snacks"
+  },
+  {
+    "id": 9,
+    "img": "https://mysato-sushi.kz/uploads/files/9e58ef179cee84b75ff3a39a123b354f.svg",
+    "title": "НАПИТКИ",
+    "path": "/Drinks"
+  },
+  {
+    "id": 10,
+    "img": "https://mysato-sushi.kz/uploads/files/abd3426426d3953e46649ca678810fa1.svg",
+    "title": "ДЕСЕРТЫ",
+    "path": "/Desserts"
+  }
+]

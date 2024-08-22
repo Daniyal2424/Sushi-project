@@ -1,0 +1,32 @@
+$blue-color: #2c4364;
+$red-color: #d43943;
+
+.decor {
+  margin: 80px 20px;
+  h1,
+  h3 {
+    color: $blue-color;
+    margin-bottom: 25px;
+  }
+  input {
+    width: 200px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  p {
+    color: $red-color;
+    margin-bottom: 20px;
+  }
+  button {
+    background-color: $blue-color;
+    width: 180px;
+    height: 40px;
+    color: white;
+    border-radius: 20px;
+  }
+}
